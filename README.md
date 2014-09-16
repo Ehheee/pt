@@ -1,0 +1,1 @@
+Another test work for a company I applied to. The idea was to create a client-server application. As the description given to me was pretty vague and I had already secured another job then it is not the most logical or thought out application, but still it was absolutely good enough.
